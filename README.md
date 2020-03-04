@@ -1,0 +1,2 @@
+# data
+Otevřené datové sady.
