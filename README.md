@@ -4,9 +4,9 @@ Volně dostupné datové sady.
 
 ## Datové sady
 
-| Název | Popis |
-| --- | --- |
-| [Státní svátky ČR](datove-sady/statni-svatky-cr/) | Seznam oficiálních státních svátků České republiky. |
+| Název                                                        | Popis                                               |
+|--------------------------------------------------------------|-----------------------------------------------------|
+| [Státní svátky ČR](./datove-sady/statni-svatky-cr/README.md) | Seznam oficiálních státních svátků České republiky. |
 
 ## Licence
 

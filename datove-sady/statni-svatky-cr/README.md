@@ -8,7 +8,7 @@ Seznam státních svátků České republiky od roku 2009.
 
 ## Popis sloupců
 
-| Sloupec | Popis |
-| --- | ---|
-| Datum | Datum státního svátku ve formátu YYYY-MM-DD. |
-| Název | Název státního svátku :) |
+| Sloupec | Popis                                        |
+|---------|----------------------------------------------|
+| Datum   | Datum státního svátku ve formátu YYYY-MM-DD. |
+| Název   | Název státního svátku :)                     |
