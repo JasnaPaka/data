@@ -1,6 +1,6 @@
 # Státní svátky České republiky
 
-Seznam státních svátků České republiky od roku 2009.
+Seznam státních svátků České republiky od roku 2009. 
 
 ## Stáhnout
 
@@ -12,3 +12,6 @@ Seznam státních svátků České republiky od roku 2009.
 |---------|----------------------------------------------|
 | Datum   | Datum státního svátku ve formátu YYYY-MM-DD. |
 | Název   | Název státního svátku :)                     |
+
+## Odkazy
+* [Státní svátky ve formátu iCal](https://www.thunderbird.net/cs/calendar/holidays/)
